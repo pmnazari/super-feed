@@ -4,5 +4,5 @@
         ["pmnazari/test-feed3", "pmnazari/test-feed4"],
         ["pmnazari/test-feed"]
     ],
-    "acceptByDefault": true
+    "acceptByDefault": false
 }
