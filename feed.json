@@ -1,8 +1,13 @@
 {
     "applicationId": "Twitter",
     "parents": [
-        ["pmnazari/test-feed3", "pmnazari/test-feed4"],
-        ["pmnazari/test-feed"]
+        [
+            "pmnazari/test-feed3",
+            "pmnazari/test-feed4"
+        ],
+        [
+            "pmnazari/test-feed"
+        ]
     ],
-    "acceptByDefault": false
+    "acceptByDefault": true
 }
